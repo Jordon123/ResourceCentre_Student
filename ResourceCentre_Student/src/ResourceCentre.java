@@ -16,17 +16,7 @@ public class ResourceCentre {
 		// pushing push
 		// faci bruh
 		
-<<<<<<< HEAD
-<<<<<<< HEAD
- 
-=======
-		
->>>>>>> branch 'master' of https://github.com/Jordon123/ResourceCentre_Student.git
-=======
-
->>>>>>> branch 'master' of https://github.com/Jordon123/ResourceCentre_Student.git
 		int option = 0;
- gfghfgh
 
 		while (option != 5) {
 
