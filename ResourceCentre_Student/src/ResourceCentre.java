@@ -14,6 +14,7 @@ public class ResourceCentre {
 		chromebookList.add(new Chromebook("CB002", "HP Chromebook", "Win 10"));
 		
 		// pushing push
+		// faci bruh
 		
 <<<<<<< HEAD
 <<<<<<< HEAD
