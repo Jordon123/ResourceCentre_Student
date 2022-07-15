@@ -5,6 +5,7 @@ public class ResourceCentre {
 	public static void main(String[] args) {
 
 		//I LIVE C206 :) - JORDON
+		// i love valorant - p 
 		ArrayList<Camcorder> camcorderList = new ArrayList<Camcorder>();
 		ArrayList<Chromebook> chromebookList = new ArrayList<Chromebook>();
 
