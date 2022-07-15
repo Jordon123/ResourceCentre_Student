@@ -32,6 +32,7 @@ public class ResourceCentreTest {
 		cb2 = new Chromebook("CB0012", "SAMSUNG Chromebook 4+", "Win 10");
 		cb3 = new Chromebook("CB0013", "HUAWEI Magicbook 100+", "Mac 10");
 		
+		// TESTING PUSH
 		
 		camcorderList= new ArrayList<Camcorder>();
 		chromebookList= new ArrayList<Chromebook>();
