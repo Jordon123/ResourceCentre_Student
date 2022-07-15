@@ -11,8 +11,13 @@ public class ResourceCentre {
 		camcorderList.add(new Camcorder("CC002", "Panasonic HC-MDH2", 10));
 		chromebookList.add(new Chromebook("CB001", "ASUS Chromebook ", "Win 10"));
 		chromebookList.add(new Chromebook("CB002", "HP Chromebook", "Win 10"));
+<<<<<<< HEAD
  
+=======
+
+>>>>>>> branch 'master' of https://github.com/Jordon123/ResourceCentre_Student.git
 		int option = 0;
+ gfghfgh
 
 		while (option != 5) {
 
@@ -147,7 +152,7 @@ public class ResourceCentre {
 
 	public static String retrieveAllChromebook(ArrayList<Chromebook> chromebookList) {
 		String output = "";
-		// write your code here
+		// write your code here	
 		return output;
 	}
 	public static void viewAllChromebook(ArrayList<Chromebook> chromebookList) {
@@ -181,6 +186,7 @@ public class ResourceCentre {
 	}	
 	public static void addChromebook(ArrayList<Chromebook> chromebookList, Chromebook cb) {
 		// write your code here
+		chromebookList.add(cb); //Levoerl}
 	}
 	
 	//================================= Option 3 Loan an item (CRUD - Update) =================================
