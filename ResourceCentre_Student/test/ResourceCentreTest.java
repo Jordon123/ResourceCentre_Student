@@ -37,13 +37,6 @@ public class ResourceCentreTest {
 		
 		camcorderList= new ArrayList<Camcorder>();
 		chromebookList= new ArrayList<Chromebook>();
-//<<<<<<< HEAD
-//		//Hello WOrld!:
-//=======
-//		//Hello WOrld!::
-//		
-//		//pushing
-//>>>>>>> branch 'master' of https://github.com/Jordon123/ResourceCentre_Student.git
 	}
 
 	
@@ -69,7 +62,6 @@ public class ResourceCentreTest {
 	public void testAddChromebook() {
 		//fail("Not yet implemented");
 		// write your code here 
-//<<<<<<< HEAD
 		// Item list is not null, so that can add a new item
 				assertNotNull("Test if there is valid Chromebook arraylist to add to", chromebookList);
 				
@@ -85,7 +77,6 @@ public class ResourceCentreTest {
 				ResourceCentre.addCamcorder(camcorderList, cc3);
 				assertEquals("Test that Camcorder arraylist size is 3?", 3, camcorderList.size());
 				assertSame("Test that Camcorder is added same as 3rd item of the list?", cc3, camcorderList.get(2));
-//=======
 		
 		// Item list is not null, so that can add a new item
 				assertNotNull("Test if there is valid Chromebook arraylist to add to", chromebookList);
@@ -103,7 +94,6 @@ public class ResourceCentreTest {
 				assertEquals("Test that Chromebook arraylist size is 3?", 3, chromebookList.size());
 				assertSame("Test that Chromebook is added same as 3rd item of the list?", cb3, chromebookList.get(2));
 		
-//>>>>>>> branch 'master' of https://github.com/Jordon123/ResourceCentre_Student.git
 	}
 	
 	@Test
