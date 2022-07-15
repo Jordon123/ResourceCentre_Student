@@ -4,7 +4,7 @@ public class ResourceCentre {
 
 	public static void main(String[] args) {
 
-		//I SUCK COCK
+		//I LIVE C206 :) - JORDON
 		ArrayList<Camcorder> camcorderList = new ArrayList<Camcorder>();
 		ArrayList<Chromebook> chromebookList = new ArrayList<Chromebook>();
 
