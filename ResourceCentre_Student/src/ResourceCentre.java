@@ -7,7 +7,7 @@ public class ResourceCentre {
 		//I LIVE C206 :) - JORDON
 		// i love valorant - p 
 		// testbS X
-		//I am dead inside dont judge lol
+		//I am dead inside dont judge lolLOL
 		ArrayList<Camcorder> camcorderList = new ArrayList<Camcorder>();
 		ArrayList<Chromebook> chromebookList = new ArrayList<Chromebook>();
 
