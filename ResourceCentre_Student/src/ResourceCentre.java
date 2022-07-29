@@ -8,6 +8,7 @@ public class ResourceCentre {
 		// i love valorant - p 
 		// testbS X
 		//I am dead inside dont judge lolLOL
+		
 		ArrayList<Camcorder> camcorderList = new ArrayList<Camcorder>();
 		ArrayList<Chromebook> chromebookList = new ArrayList<Chromebook>();
 
@@ -16,6 +17,8 @@ public class ResourceCentre {
 		chromebookList.add(new Chromebook("CB001", "ASUS Chromebook ", "Win 10"));
 		chromebookList.add(new Chromebook("CB002", "HP Chromebook", "Win 10"));
 		int option = 0; 
+		
+		//im tired 
 		
 		while (option != 5) {
 
@@ -189,8 +192,6 @@ public class ResourceCentre {
 
 		return cb;
 	}	
-	
-	// hello - kassie
 	
 	public static void addChromebook(ArrayList<Chromebook> chromebookList, Chromebook cb) {
 		// write your code here
